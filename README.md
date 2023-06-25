@@ -5,10 +5,6 @@
 
 ### :man_technologist: About me:
 
-<p align="center">
- <img width="600" src="assets/github-snake.svg" alt="snake"/>
-</p>
-
 <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30px"> Bekezhan | Computer Science Student & Java Enthusiast 
 
 🌍 Born in Kazakhstan, now living in Ireland 🇮🇪
