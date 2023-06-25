@@ -5,7 +5,7 @@
 
 ### :man_technologist: About me:
 
-<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30px"> Bekezhan | Computer Science Student & Java Enthusiast 
+<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30px">Bekezhan | Computer Science Student & Java Enthusiast 
 
 🌍 Born in Kazakhstan, now living in Ireland 🇮🇪
 
@@ -24,7 +24,7 @@
 🌱 Embracing growth, one line of code at a time
 
 
-- :mailbox: Email me:[![Gmail Badge](https://img.shields.io/badge/-Gmail-red?style=flat&logo=Gmail&logoColor=white)](mailto:abdykarimovbekezhan@gmail.com)
+- :mailbox: Email me: [![Gmail Badge](https://img.shields.io/badge/-Gmail-red?style=flat&logo=Gmail&logoColor=white)](mailto:abdykarimovbekezhan@gmail.com)
 
 ---
 
