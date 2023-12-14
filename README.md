@@ -24,7 +24,7 @@
 🌱 Embracing growth, one line of code at a time
 
 
-- :mailbox: Email me: [![Gmail Badge](https://img.shields.io/badge/-Gmail-red?style=flat&logo=Gmail&logoColor=white)](mailto:abdykarimovbekezhan@gmail.com)
+ Email me: [![Gmail Badge](https://img.shields.io/badge/-Gmail-red?style=flat&logo=Gmail&logoColor=white)](mailto:abdykarimovbekezhan@gmail.com)
 
 ---
 
