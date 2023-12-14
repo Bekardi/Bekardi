@@ -3,7 +3,7 @@
 
 ---
 
-### :man_technologist: About me:
+ About me:
 
 <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30px">Bekezhan | Computer Science Student & Java Enthusiast 
 
